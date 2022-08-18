@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there!! 👋 My name is Jiaqi Cheng!
 
-<!--
-**jiaqicheng1998/jiaqicheng1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  I am a full-stack software developer and data analyst graduated from UC Berkeley!
 
-Here are some ideas to get you started:
+- 😎 Seeking inspiring opportunities and a challenging working environment that will help me grow as a software engineer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎲 Skills: PYTHON / REACT / JS / HTML / CSS / R / FIGMA
+
+- ✨ Previously worked as a product manager and designer in a start-up company, Pallet 9.
+
+- 👍 Click to view my LinkedIn profile https://www.linkedin.com/in/jiaqi-cheng/
+
+
+
