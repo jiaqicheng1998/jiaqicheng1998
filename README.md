@@ -8,7 +8,7 @@
 
 - ✨ Previously worked as a product manager and designer in a start-up company, Pallet 9.
 
-- 👍 Click to view my [LinkedIn profile](https://www.linkedin.com/in/https://www.linkedin.com/in/jiaqi-cheng/)!  
+- 👍 Click to view my [LinkedIn profile](https://www.linkedin.com/in/jiaqi-cheng/)!  
 
 
 
